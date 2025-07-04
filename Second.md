@@ -1,31 +1,27 @@
-<!-- Profile README for GitHub -->
-
 <h1 align="center">Hi there 👋, I'm [Your Name]</h1>
-<h3 align="center">🚀 Full-Stack Web Developer | 💡 Problem Solver | 🌐 Tech Enthusiast</h3>
+<h3 align="center">A Passionate Web Developer Who Builds for the Web with ❤️</h3>
 
 <p align="center">
-  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/yourname" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-  <a href="https://your-blog.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog"/></a>
-</p>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Engineer;Full-Stack+Web+Wizard;JavaScript+%7C+React+%7C+Node.js;Lifelong+Learner+%F0%9F%93%9A" alt="Typing Stack
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=whiteat-square&logo=node.jsB2AC?style=flat-square&logo=tailre&logo=visual-sttack]**
+- 🌱 I’m learning **Next.js, TypeScript, and Web Performance Optimization**
+- 💬 Ask me about **JavaScript, React, APIs, or anything web-related**
+- 📫 How to reach me: **[your.email@example.com]**
+- ⚡ Fun fact: I can turn ☕ into code faster than you can say "console.log"
 
 ---
 
-### 🧑‍💻 About Me
-
-- 🔭 I’m currently building **modern, scalable web apps** with **React**, **Next.js**, **Node.js**, and **TypeScript**  
-- 🌱 Always learning something new — lately diving into **AI**, **WebAssembly**, and **Edge Functions**  
-- 💬 Ask me about **JavaScript**, **Frontend Architecture**, or **API design**  
-- 💼 Open to freelance projects & collaboration on exciting ideas  
-
+### 📈 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=rad
 ---
 
-### 🔧 Tech Stack
+### 🌐 Connect with Me
 
-```bash
-💻 Frontend     : React.js · Next.js · Tailwind CSS · TypeScript · HTML5 · CSS3 · Sass
-🛠️ Backend      : Node.js · Express · MongoDB · PostgreSQL · Prisma · REST · GraphQL
-🧪 Testing      : Jest · Cypress · Playwright · React Testing Library
-☁️ DevOps       : Vercel · Netlify · Docker · GitHub Actions
-📦 Tools        : Git · Webpack · ESLint · Prettier · VS Code · Figma
+<p align="center">
+  <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=firefox&logoColorsrc="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+---
+
+> “Code is like humor. When you have to explain it, it’s bad – Cory House
