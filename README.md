@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
-  <a href="https://linkedin.com/in/yourname" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://www.linkedin.com/in/joseph-d-12b645181/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:joseph.dennis@triosstudent.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://your-blog.dev" target="_blank"><img src="https://img.shields.io/badge/Blog-%23FF5722.svg?style=for-the-badge&logo=dev.to&logoColor=white" alt="Blog"/></a>
 </p>
@@ -18,7 +18,7 @@
 - 🌱 Always learning something new — lately diving into **AI**, **WebAssembly**, and **Edge Functions**  
 - 💬 Ask me about **JavaScript**, **Frontend Architecture**, or **API design**  
 - 💼 Open to freelance projects & collaboration on exciting ideas
-- 📫 How to reach me: **[your.email@example.com]**
+- 📫 How to reach me: **Joseph.Dennis@triosstudent.com**
 - ⚡ Fun fact: I can turn ☕ into code faster than you can say "console.log"
 
 ---
