@@ -28,9 +28,9 @@
 
 ### 🧑‍💻 About Me
 
-- 🔭 I’m currently building **modern, scalable web apps** with **React**, **Next.js**, **Node.js**, and **TypeScript**  
-- 🌱 Always learning something new — lately diving into **AI**, **WebAssembly**, and **Edge Functions**  
-- 💬 Ask me about **JavaScript**, **Frontend Architecture**, or **API design**  
+- 🔭 I’m currently building **modern, scalable websites** with **TypeScript**, **Node.js**, and **Angular**  
+- 🌱 Always learning something new — lately diving into **AI**, **Git & GitHub**, and **Java**  
+- 💬 Ask me about **MS Excelt**, **Visual Basics**, or **HTML**  
 - 💼 Open to freelance projects & collaboration on exciting ideas
 - 📫 How to reach me: **Joseph.Dennis@triosstudent.com**
 - ⚡ Fun fact: I can turn ☕ into code faster than you can say "console.log"
@@ -40,8 +40,7 @@
 ### 🔧 Tech Stack
 
 ```bash
-💻 Frontend     : React.js · Next.js · Tailwind CSS · TypeScript · HTML5 · CSS3 · Sass
-🛠️ Backend      : Node.js · Express · MongoDB · PostgreSQL · Prisma · REST · GraphQL
-🧪 Testing      : Jest · Cypress · Playwright · React Testing Library
-☁️ DevOps       : Vercel · Netlify · Docker · GitHub Actions
-📦 Tools        : Git · Webpack · ESLint · Prettier · VS Code · Figma
+💻 Frontend     : HTML5 · CSS3
+🛠️ Backend      : Node.js · MySql · JavaScript · Angular
+☁️ DevOps       : Netlify · GitHub Actions
+📦 Tools        : Git · Prettier · VS Code
