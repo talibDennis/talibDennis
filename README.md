@@ -2,6 +2,11 @@
 
 <h1 align="center">Hi there 👋, I'm Joseph Dennis</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | 💡 Problem Solver | 🌐 Tech Enthusiast</h3>
+<p> align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wakeup.+Code.+Eat.+Sleep+Repeat" alt="Typing SVG" />
+  </a>
+</p>
 
 <p align="center">
   <a href="https://your-portfolio.com" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>
