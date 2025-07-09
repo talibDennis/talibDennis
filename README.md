@@ -10,7 +10,7 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio.com" target="_blank">
+  <a href="https://github.com/talibDennis" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="https://www.linkedin.com/in/joseph-d-12b645181/" target="_blank">
