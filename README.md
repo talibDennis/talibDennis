@@ -2,7 +2,8 @@
 
 <h1 align="center">Hi 👋, I'm Joseph Dennis</h1>
 <h3 align="center">🚀 Full-Stack Web Developer | 💡 Problem Solver | 🌐 Tech Enthusiast</h3>
-
+<p>&nbsp;</p>
+<p>&nbsp;</p>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Wakeup.+Code.+Eat.+Sleep.+Repeat." alt="Typing SVG" />
