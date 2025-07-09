@@ -38,6 +38,11 @@
 
 ---
 
+![Branches](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fe7.pngegg.com%2Fpngimages%2F226%2F189%2Fpng-clipart-git-sourcetree-mercurial-version-control-repository-github-git-repository-thumbnail.png&f=1&nofb=1&ipt=cc7788a17d7bd1cbfc34e799b9c7a8fdcbdfecada038421c0781bc111f6a77de)
+[Git Install](https://git-scm.com/)
+
+---
+
 ### 🔧 Tech Stack
 
 ```bash
